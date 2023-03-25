@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="choose_your_title_rep">Choose your Title Rep</string>
+    <string name="our_rep_can_held_you_keep_the_app">Our rep can held you keep the app up to date and give you all the support you will support</string>
+    <string name="submit">submit</string>
+    <string name="finish">Finish</string>
+
+</resources>
